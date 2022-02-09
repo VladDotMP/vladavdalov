@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vladavdalov
 - 👀 I’m interested in Automation and Machine Learning.
-- 🌱 I’m currently working on a game related project. 
 - 📫 How to reach me on discord VlaD#0019
 
 <!---
