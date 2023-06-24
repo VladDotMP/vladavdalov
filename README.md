@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vladavdalov
-- 👀 I’m interested in Automation and Machine Learning.
+- 👀 I’m interested in Automation, Machine Learning and most important of all; Software Development.
 - 📫 How to reach me on discord VlaD#0019
 
 <!---
